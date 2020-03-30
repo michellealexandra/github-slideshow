@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Michelle suka warna putih
 Use the left arrow to go back!
